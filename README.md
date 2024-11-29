@@ -1,4 +1,4 @@
- [![MasterHead](https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif)](https://hrishi-6887.io)
+ [![MasterHead](https://img.freepik.com/free-vector/hand-drawn-data-analysis-template_23-2150669335.jpg?ga=GA1.1.270952332.1725385823&semt=ais_hybrid)](https://hrishi-6887.io)
 <h1 align="center">Hi 👋, I'm Hrishikesh</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.echelonedge.com/wp-content/themes/echelon/assets/img/echelon-data-quipo.gif">
