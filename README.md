@@ -1,3 +1,8 @@
+ [![MasterHead](https://media.licdn.com/dms/image/D4E12AQHBjAzsAfUgqw/article-cover_image-shrink_720_1280/0/1674602255823?e=2147483647&v=beta&t=n0y2ObAgO-hsdoLc85bTx9RryWklIivz_inNCDqzvYc)](https://hrishi-6887.io)
+ <h1 align="center">Hi 👋, I'm Hrishikesh</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
+<img align="right" alt="Coding" width="400" src="https://www.echelonedge.com/wp-content/themes/echelon/assets/img/echelon-data-quipo.gif">
+
 # 💫 About Me:
 🔭 I’m currently working on Data Analysis Projects<br>👯 I’m looking to collaborate on Data works<br>🤝 I’m looking for help with Data related internships<br>🌱 I’m currently learning Advanced Excel  <br>💬 Ask me about <br>⚡ Fun fact
 
