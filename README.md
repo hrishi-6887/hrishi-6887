@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.echelonedge.com/wp-content/themes/echelon/assets/img/echelon-data-quipo.gif">
 
 # 💫 About Me:
-🔭 I’m currently working on Data Analysis Projects<br>👯 I’m looking to collaborate on Data works<br>🤝 I’m looking for help with Data related internships<br>🌱 I’m currently learning Advanced Excel, Power BI, SQL <br>💬 Ask me about <br>⚡ Fun fact
+🔭 Currently working on Data Analysis Projects and Upskilling myself <br>👯 I’m looking to collaborate on Data and Visualization Projects <br>🤝 I’m looking for help with Data related internships to get in hand experience <br>🌱 I’m currently learning Advanced Excel, Power BI, SQL  <br>⚡ Fun fact : I love exploring new paths and believe learning never stops!
 
 
 ## 🌐 Socials:
