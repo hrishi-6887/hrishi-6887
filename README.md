@@ -1,4 +1,4 @@
- [![MasterHead](https://media.licdn.com/dms/image/D4E12AQHBjAzsAfUgqw/article-cover_image-shrink_720_1280/0/1674602255823?e=2147483647&v=beta&t=n0y2ObAgO-hsdoLc85bTx9RryWklIivz_inNCDqzvYc)](https://hrishi-6887.io)
+ ![MasterHead](https://it.gwu.edu/sites/g/files/zaxdzs5486/files/styles/default/public/2023-10/github_logo.png?itok=UypeFJn4)
  <h1 align="center">Hi 👋, I'm Hrishikesh</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.echelonedge.com/wp-content/themes/echelon/assets/img/echelon-data-quipo.gif">
